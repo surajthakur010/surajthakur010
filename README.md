@@ -30,13 +30,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=surajthakur010&theme=radical" />
 </p>
 
----
-
-## 📈 Top Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajthakur010&layout=compact&theme=radical" />
-</p>
 
 ---
 
@@ -48,7 +41,8 @@
 </p>
 
 ---
-
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ## ⚡ Fun Fact
 
 💬 I love turning ideas into real-world projects 🚀
