@@ -23,11 +23,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=surajthakur010&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=surajthakur010&theme=radical" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## 📈 Top Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajthakur010&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -43,8 +43,8 @@
 ## 🔗 Connect with me
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> |
-<a href="mailto:your@email.com">Email</a>
+<a href="https://www.linkedin.com/in/surajsingh010/">LinkedIn</a> |
+<a href="mailto:surajsinghthakur.k@gmail.com">Email</a>
 </p>
 
 ---
